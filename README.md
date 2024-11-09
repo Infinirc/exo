@@ -260,3 +260,6 @@ exo supports the following inference engines:
 - ✅ [GRPC](exo/networking/grpc)
 - 🚧 [Radio](TODO)
 - 🚧 [Bluetooth](TODO)
+
+
+/System/Volumes/Data/Users/rickychen/.cache/huggingface
